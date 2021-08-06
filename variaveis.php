@@ -18,6 +18,9 @@
 
     // boolean
     $fumante_sn = false; // true = 1 ou false = vazio
+
+    // ...lógica...
+    $idade = '22';
   ?>
 
   <h1>Ficha cadastral</h1>
