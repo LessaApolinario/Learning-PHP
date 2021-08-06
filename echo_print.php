@@ -28,7 +28,7 @@
 
   <!--
     O print inicial no PHP foi considerado uma função e
-    retorna 1 se for executada corretamente e retorn 0 se
+    retorna 1 se for executada corretamente e retorna 0 se
     ocorrer o contrário.
   -->
 
